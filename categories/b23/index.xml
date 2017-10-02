@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kelly O&#39;Briant on Kelly O&#39;Briant</title>
-    <link>/</link>
-    <description>Recent content in Kelly O&#39;Briant on Kelly O&#39;Briant</description>
+    <title>B23 on Kelly O&#39;Briant</title>
+    <link>/categories/b23/</link>
+    <description>Recent content in B23 on Kelly O&#39;Briant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Kelly</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Master of Many Machines: Data Science Collaboration Across Jupyter, Zeppelin, and R in the Cloud</title>
-      <link>/talk/wsds2017/</link>
-      <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/wsds2017/</guid>
-      <description>&lt;p&gt;Saturday October 21, 2017 at 12:45 PM&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Tue, 26 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/b23/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>B23 Blog: Chromebook Data Science</title>
@@ -59,35 +49,6 @@
 &lt;h3 id=&#34;introducing-b23r-an-r-package-for-importing-and-exporting-entire-r-environments-backed-by-amazon-s-simple-storage-service-s3&#34;&gt;Introducing B23r &amp;ndash; An R package for Importing and Exporting Entire R Environments backed by Amazon’s Simple Storage Service (S3)&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://medium.com/@b23llc/introducing-b23r-an-r-package-for-importing-and-exporting-entire-r-environments-backed-by-amazon-ec75fcf2f516&#34; target=&#34;_blank&#34;&gt;Read it on Medium here.&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An R Cloud Computing Lifeline: The Missing Manual for Running R on Amazon Cloud</title>
-      <link>/talk/earlsf2017/</link>
-      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/earlsf2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An R Cloud Computing Lifeline: The Missing Manual for Running R on Amazon Cloud</title>
-      <link>/talk/nyrconf2017/</link>
-      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/nyrconf2017/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WgIGM6yn3HA&#34; target=&#34;_blank&#34;&gt;Video now available on YouTube&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>/post/2017-03-20-hello-world-rmd/</link>
-      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2017-03-20-hello-world-rmd/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m currently in the process of migrating or linking to my blogs from other locations - stay tuned!&lt;/p&gt;
 </description>
     </item>
     

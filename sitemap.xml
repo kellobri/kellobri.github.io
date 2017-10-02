@@ -4,7 +4,39 @@
     
     
     <url>
-      <loc>https://kellobri.github.io/talk/nyrconf2017/</loc>
+      <loc>/talk/wsds2017/</loc>
+      <lastmod>2017-10-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/post/b23-blog-chromebook-data-science/</loc>
+      <lastmod>2017-09-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/post/b23-blog-record-backlog/</loc>
+      <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/talk/earlsf2017/</loc>
+      <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/talk/nyrconf2017/</loc>
       <lastmod>2017-04-21T00:00:00+00:00</lastmod>
     </url>
     
@@ -12,7 +44,7 @@
     
     
     <url>
-      <loc>https://kellobri.github.io/post/2017-03-20-hello-world-rmd/</loc>
+      <loc>/post/2017-03-20-hello-world-rmd/</loc>
       <lastmod>2017-03-20T00:00:00+00:00</lastmod>
     </url>
     
@@ -20,7 +52,7 @@
     
     
     <url>
-      <loc>https://kellobri.github.io/tags/academic/</loc>
+      <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -28,7 +60,7 @@
     
     
     <url>
-      <loc>https://kellobri.github.io/post/</loc>
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -36,7 +68,7 @@
     
     
     <url>
-      <loc>https://kellobri.github.io/talk/</loc>
+      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -44,8 +76,106 @@
     
     
     <url>
-      <loc>https://kellobri.github.io/</loc>
+      <loc>/tags/aws/</loc>
+      <lastmod>2017-09-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/categories/b23/</loc>
+      <lastmod>2017-09-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/tags/blogging/</loc>
+      <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/categories/</loc>
+      <lastmod>2017-09-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/tags/chromebook/</loc>
+      <lastmod>2017-09-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/tags/cloud/</loc>
+      <lastmod>2017-09-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/categories/datascience/</loc>
+      <lastmod>2017-09-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/categories/r/</loc>
+      <lastmod>2017-09-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/tags/rstudio/</loc>
+      <lastmod>2017-09-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/tags/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
