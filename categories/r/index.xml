@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Kelly O&#39;Briant</title>
-    <link>/categories/r/</link>
+    <link>https://kellobri.github.io/categories/r/</link>
     <description>Recent content in R on Kelly O&#39;Briant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,13 +12,13 @@
     
     <item>
       <title>B23 Blog: Chromebook Data Science</title>
-      <link>/post/b23-blog-chromebook-data-science/</link>
+      <link>https://kellobri.github.io/post/b23-blog-chromebook-data-science/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/b23-blog-chromebook-data-science/</guid>
+      <guid>https://kellobri.github.io/post/b23-blog-chromebook-data-science/</guid>
       <description>
 
-&lt;h1 id=&#34;experimenting-with-chromebook-data-science-in-the-cloud&#34;&gt;Experimenting with Chromebook Data Science in the Cloud&lt;/h1&gt;
+&lt;h2 id=&#34;experimenting-with-chromebook-data-science-in-the-cloud&#34;&gt;Experimenting with Chromebook Data Science in the Cloud&lt;/h2&gt;
 
 &lt;p&gt;I have a new blog up on the B23 Medium account &amp;ndash; Check it out: &lt;a href=&#34;https://medium.com/@b23llc/experimenting-with-chromebook-data-science-in-the-cloud-2bd84a68b934&#34; target=&#34;_blank&#34;&gt;Experimenting with Chromebook Data Science in the Cloud&lt;/a&gt;&lt;/p&gt;
 
@@ -34,13 +34,13 @@
     
     <item>
       <title>B23 Blog Backlog</title>
-      <link>/post/b23-blog-record-backlog/</link>
+      <link>https://kellobri.github.io/post/b23-blog-record-backlog/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/b23-blog-record-backlog/</guid>
+      <guid>https://kellobri.github.io/post/b23-blog-record-backlog/</guid>
       <description>
 
-&lt;h1 id=&#34;b23-blogs-from-the-past-2016&#34;&gt;B23 Blogs From the Past &amp;ndash; 2016&lt;/h1&gt;
+&lt;h2 id=&#34;b23-blogs-from-the-past-2016&#34;&gt;B23 Blogs From the Past &amp;ndash; 2016&lt;/h2&gt;
 
 &lt;h3 id=&#34;a-sparklyr-test-drive-designed-for-the-analysis-of-large-datasets&#34;&gt;A Sparklyr Test Drive Designed for the Analysis of Large Datasets&lt;/h3&gt;
 
