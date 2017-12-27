@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>List on Kelly O&#39;Briant</title>
+    <link>https://kellobri.github.io/tags/list/</link>
+    <description>Recent content in List on Kelly O&#39;Briant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Kelly</copyright>
+    <lastBuildDate>Tue, 26 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/list/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Favorite Projects from 2017</title>
+      <link>https://kellobri.github.io/post/2017-12-25-favorite-projects-timeline/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kellobri.github.io/post/2017-12-25-favorite-projects-timeline/</guid>
+      <description>
+
+&lt;h2 id=&#34;favorite-projects-timeline-for-2017&#34;&gt;Favorite Projects Timeline for 2017&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://kellobri.github.io/img/2017_Projects.jpg&#34; alt=&#34;project-timeline&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;links-to-everything-listed&#34;&gt;Links to Everything Listed&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;January: &lt;a href=&#34;https://www.meetup.com/rladies-dc/&#34; target=&#34;_blank&#34;&gt;R-Ladies DC Meetup Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;March: &lt;a href=&#34;https://platform.b23.io/&#34; target=&#34;_blank&#34;&gt;B23r for the B23 Data Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;April: &lt;a href=&#34;http://www.rstats.nyc/2017&#34; target=&#34;_blank&#34;&gt;New York R Conference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;May: &lt;a href=&#34;http://unconf17.ropensci.org/&#34; target=&#34;_blank&#34;&gt;rOpenSci Unconf&lt;/a&gt; and the &lt;a href=&#34;https://ropensci.org/blog/&#34; target=&#34;_blank&#34;&gt;.rprofile blog series&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;August: &lt;a href=&#34;https://www.safaribooksonline.com/library/view/introduction-to-sparklyr/9781491996508/&#34; target=&#34;_blank&#34;&gt;Introduction to Sparklyr for Data Science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;September: &lt;a href=&#34;https://github.com/rladies/meetup-presentations_dc/blob/master/NetworkingCrosswordPuzzle-2017/R-Ladies%20Crossword%20Puzzle%20Challenge.pdf&#34; target=&#34;_blank&#34;&gt;R-Ladies DC Crossword Puzzle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;October: &lt;a href=&#34;https://ww2.amstat.org/meetings/wsds/2017/&#34; target=&#34;_blank&#34;&gt;Women in Statistics and Data Science Conference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;December: &lt;a href=&#34;https://www.etsy.com/listing/562883124/r-logo-cookie-cutter?show_sold_out_detail=1&#34; target=&#34;_blank&#34;&gt;3D Printed R-Logo Cookie Cutters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
