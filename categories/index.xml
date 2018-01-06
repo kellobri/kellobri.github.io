@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kelly O&#39;Briant</title>
-    <link>https://kellobri.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Kelly O&#39;Briant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,28 +12,28 @@
     
     <item>
       <title>B23</title>
-      <link>https://kellobri.github.io/categories/b23/</link>
+      <link>/categories/b23/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kellobri.github.io/categories/b23/</guid>
+      <guid>/categories/b23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Datascience</title>
-      <link>https://kellobri.github.io/categories/datascience/</link>
+      <link>/categories/datascience/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kellobri.github.io/categories/datascience/</guid>
+      <guid>/categories/datascience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://kellobri.github.io/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kellobri.github.io/categories/r/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     

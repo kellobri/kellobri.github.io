@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kelly O&#39;Briant on Kelly O&#39;Briant</title>
-    <link>https://kellobri.github.io/</link>
+    <link>/</link>
     <description>Recent content in Kelly O&#39;Briant on Kelly O&#39;Briant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,15 +12,15 @@
     
     <item>
       <title>Favorite Projects from 2017</title>
-      <link>https://kellobri.github.io/post/2017-12-25-favorite-projects-timeline/</link>
+      <link>/post/2017-12-25-favorite-projects-timeline/</link>
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kellobri.github.io/post/2017-12-25-favorite-projects-timeline/</guid>
+      <guid>/post/2017-12-25-favorite-projects-timeline/</guid>
       <description>
 
 &lt;h2 id=&#34;favorite-projects-timeline-for-2017&#34;&gt;Favorite Projects Timeline for 2017&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://kellobri.github.io/img/2017_Projects.jpg&#34; alt=&#34;project-timeline&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/2017_Projects.jpg&#34; alt=&#34;project-timeline&#34; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;links-to-everything-listed&#34;&gt;Links to Everything Listed&lt;/h4&gt;
 
@@ -39,10 +39,10 @@
     
     <item>
       <title>.rprofile Interview with Jenny Bryan</title>
-      <link>https://kellobri.github.io/post/2017-12-08-rprofile-jenny-bryan/</link>
+      <link>/post/2017-12-08-rprofile-jenny-bryan/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kellobri.github.io/post/2017-12-08-rprofile-jenny-bryan/</guid>
+      <guid>/post/2017-12-08-rprofile-jenny-bryan/</guid>
       <description>
 
 &lt;h2 id=&#34;rprofile-jenny-bryan&#34;&gt;.rprofile: Jenny Bryan&lt;/h2&gt;
@@ -61,10 +61,10 @@
     
     <item>
       <title>.rprofile Interview with Mara Averick</title>
-      <link>https://kellobri.github.io/post/2017-11-10-rprofile-mara-averick/</link>
+      <link>/post/2017-11-10-rprofile-mara-averick/</link>
       <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kellobri.github.io/post/2017-11-10-rprofile-mara-averick/</guid>
+      <guid>/post/2017-11-10-rprofile-mara-averick/</guid>
       <description>
 
 &lt;h2 id=&#34;rprofile-mara-averick&#34;&gt;.rprofile: Mara Averick&lt;/h2&gt;
@@ -83,20 +83,20 @@
     
     <item>
       <title>Master of Many Machines: Data Science Collaboration Across Jupyter, Zeppelin, and R in the Cloud</title>
-      <link>https://kellobri.github.io/talk/wsds2017/</link>
+      <link>/talk/wsds2017/</link>
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kellobri.github.io/talk/wsds2017/</guid>
+      <guid>/talk/wsds2017/</guid>
       <description>&lt;p&gt;Saturday October 21, 2017 at 12:45 PM&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>.rprofile Interview Series</title>
-      <link>https://kellobri.github.io/post/2017-10-13-rprofile-interview-series/</link>
+      <link>/post/2017-10-13-rprofile-interview-series/</link>
       <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kellobri.github.io/post/2017-10-13-rprofile-interview-series/</guid>
+      <guid>/post/2017-10-13-rprofile-interview-series/</guid>
       <description>
 
 &lt;h2 id=&#34;rprofile-david-smith&#34;&gt;.rprofile: David Smith&lt;/h2&gt;
@@ -115,10 +115,10 @@
     
     <item>
       <title>B23 Blog: Chromebook Data Science</title>
-      <link>https://kellobri.github.io/post/b23-blog-chromebook-data-science/</link>
+      <link>/post/b23-blog-chromebook-data-science/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kellobri.github.io/post/b23-blog-chromebook-data-science/</guid>
+      <guid>/post/b23-blog-chromebook-data-science/</guid>
       <description>
 
 &lt;h2 id=&#34;experimenting-with-chromebook-data-science-in-the-cloud&#34;&gt;Experimenting with Chromebook Data Science in the Cloud&lt;/h2&gt;
@@ -137,10 +137,10 @@
     
     <item>
       <title>B23 Blog Backlog</title>
-      <link>https://kellobri.github.io/post/b23-blog-record-backlog/</link>
+      <link>/post/b23-blog-record-backlog/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kellobri.github.io/post/b23-blog-record-backlog/</guid>
+      <guid>/post/b23-blog-record-backlog/</guid>
       <description>
 
 &lt;h2 id=&#34;b23-blogs-from-the-past-2016&#34;&gt;B23 Blogs From the Past &amp;ndash; 2016&lt;/h2&gt;
@@ -157,29 +157,29 @@
     
     <item>
       <title>An R Cloud Computing Lifeline: The Missing Manual for Running R on Amazon Cloud</title>
-      <link>https://kellobri.github.io/talk/earlsf2017/</link>
+      <link>/talk/earlsf2017/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kellobri.github.io/talk/earlsf2017/</guid>
+      <guid>/talk/earlsf2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An R Cloud Computing Lifeline: The Missing Manual for Running R on Amazon Cloud</title>
-      <link>https://kellobri.github.io/talk/nyrconf2017/</link>
+      <link>/talk/nyrconf2017/</link>
       <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kellobri.github.io/talk/nyrconf2017/</guid>
+      <guid>/talk/nyrconf2017/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WgIGM6yn3HA&#34; target=&#34;_blank&#34;&gt;Video now available on YouTube&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>https://kellobri.github.io/post/2017-03-20-hello-world-rmd/</link>
+      <link>/post/2017-03-20-hello-world-rmd/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kellobri.github.io/post/2017-03-20-hello-world-rmd/</guid>
+      <guid>/post/2017-03-20-hello-world-rmd/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m currently in the process of migrating or linking to my blogs from other locations - stay tuned!&lt;/p&gt;
 </description>
     </item>

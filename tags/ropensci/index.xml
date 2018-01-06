@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ropensci on Kelly O&#39;Briant</title>
-    <link>https://kellobri.github.io/tags/ropensci/</link>
+    <link>/tags/ropensci/</link>
     <description>Recent content in Ropensci on Kelly O&#39;Briant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>.rprofile Interview with Jenny Bryan</title>
-      <link>https://kellobri.github.io/post/2017-12-08-rprofile-jenny-bryan/</link>
+      <link>/post/2017-12-08-rprofile-jenny-bryan/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kellobri.github.io/post/2017-12-08-rprofile-jenny-bryan/</guid>
+      <guid>/post/2017-12-08-rprofile-jenny-bryan/</guid>
       <description>
 
 &lt;h2 id=&#34;rprofile-jenny-bryan&#34;&gt;.rprofile: Jenny Bryan&lt;/h2&gt;
@@ -34,10 +34,10 @@
     
     <item>
       <title>.rprofile Interview with Mara Averick</title>
-      <link>https://kellobri.github.io/post/2017-11-10-rprofile-mara-averick/</link>
+      <link>/post/2017-11-10-rprofile-mara-averick/</link>
       <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kellobri.github.io/post/2017-11-10-rprofile-mara-averick/</guid>
+      <guid>/post/2017-11-10-rprofile-mara-averick/</guid>
       <description>
 
 &lt;h2 id=&#34;rprofile-mara-averick&#34;&gt;.rprofile: Mara Averick&lt;/h2&gt;
@@ -56,10 +56,10 @@
     
     <item>
       <title>.rprofile Interview Series</title>
-      <link>https://kellobri.github.io/post/2017-10-13-rprofile-interview-series/</link>
+      <link>/post/2017-10-13-rprofile-interview-series/</link>
       <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kellobri.github.io/post/2017-10-13-rprofile-interview-series/</guid>
+      <guid>/post/2017-10-13-rprofile-interview-series/</guid>
       <description>
 
 &lt;h2 id=&#34;rprofile-david-smith&#34;&gt;.rprofile: David Smith&lt;/h2&gt;
