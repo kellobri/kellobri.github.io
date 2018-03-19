@@ -2,111 +2,112 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kelly O&#39;Briant</title>
-    <link>/tags/</link>
+    <link>https://kellobri.github.io/tags/</link>
     <description>Recent content in Tags on Kelly O&#39;Briant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Kelly</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://kellobri.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>/tags/academic/</link>
+      <link>https://kellobri.github.io/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/academic/</guid>
-      <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
-</description>
+      <guid>https://kellobri.github.io/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
       <title>Aws</title>
-      <link>/tags/aws/</link>
+      <link>https://kellobri.github.io/tags/aws/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/aws/</guid>
+      <guid>https://kellobri.github.io/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blogging</title>
-      <link>/tags/blogging/</link>
+      <link>https://kellobri.github.io/tags/blogging/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/blogging/</guid>
+      <guid>https://kellobri.github.io/tags/blogging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chromebook</title>
-      <link>/tags/chromebook/</link>
+      <link>https://kellobri.github.io/tags/chromebook/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/chromebook/</guid>
+      <guid>https://kellobri.github.io/tags/chromebook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloud</title>
-      <link>/tags/cloud/</link>
+      <link>https://kellobri.github.io/tags/cloud/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cloud/</guid>
+      <guid>https://kellobri.github.io/tags/cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interview</title>
-      <link>/tags/interview/</link>
+      <link>https://kellobri.github.io/tags/interview/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/interview/</guid>
+      <guid>https://kellobri.github.io/tags/interview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>List</title>
-      <link>/tags/list/</link>
+      <link>https://kellobri.github.io/tags/list/</link>
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/list/</guid>
+      <guid>https://kellobri.github.io/tags/list/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/tags/projects/</link>
+      <link>https://kellobri.github.io/tags/projects/</link>
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/projects/</guid>
+      <guid>https://kellobri.github.io/tags/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ropensci</title>
-      <link>/tags/ropensci/</link>
+      <link>https://kellobri.github.io/tags/ropensci/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ropensci/</guid>
+      <guid>https://kellobri.github.io/tags/ropensci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rstats</title>
-      <link>/tags/rstats/</link>
+      <link>https://kellobri.github.io/tags/rstats/</link>
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rstats/</guid>
+      <guid>https://kellobri.github.io/tags/rstats/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rstudio</title>
-      <link>/tags/rstudio/</link>
+      <link>https://kellobri.github.io/tags/rstudio/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rstudio/</guid>
+      <guid>https://kellobri.github.io/tags/rstudio/</guid>
       <description></description>
     </item>
     

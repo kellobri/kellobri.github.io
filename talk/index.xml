@@ -2,41 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Kelly O&#39;Briant</title>
-    <link>/talk/</link>
+    <link>https://kellobri.github.io/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Kelly O&#39;Briant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Kelly</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://kellobri.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DataOps: Data Science Empowerment through DevOps, Cloud Computing and Building your Own Applications</title>
+      <link>https://kellobri.github.io/talk/wia2018/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kellobri.github.io/talk/wia2018/</guid>
+      <description>Saturday October 21, 2017 at 12:45 PM</description>
+    </item>
     
     <item>
       <title>Master of Many Machines: Data Science Collaboration Across Jupyter, Zeppelin, and R in the Cloud</title>
-      <link>/talk/wsds2017/</link>
+      <link>https://kellobri.github.io/talk/wsds2017/</link>
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/talk/wsds2017/</guid>
-      <description>&lt;p&gt;Saturday October 21, 2017 at 12:45 PM&lt;/p&gt;
-</description>
+      <guid>https://kellobri.github.io/talk/wsds2017/</guid>
+      <description>Saturday October 21, 2017 at 12:45 PM</description>
     </item>
     
     <item>
       <title>An R Cloud Computing Lifeline: The Missing Manual for Running R on Amazon Cloud</title>
-      <link>/talk/earlsf2017/</link>
+      <link>https://kellobri.github.io/talk/earlsf2017/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/talk/earlsf2017/</guid>
+      <guid>https://kellobri.github.io/talk/earlsf2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An R Cloud Computing Lifeline: The Missing Manual for Running R on Amazon Cloud</title>
-      <link>/talk/nyrconf2017/</link>
+      <link>https://kellobri.github.io/talk/nyrconf2017/</link>
       <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/talk/nyrconf2017/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WgIGM6yn3HA&#34; target=&#34;_blank&#34;&gt;Video now available on YouTube&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://kellobri.github.io/talk/nyrconf2017/</guid>
+      <description>Video now available on YouTube</description>
     </item>
     
   </channel>

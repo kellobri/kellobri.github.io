@@ -2,32 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogging on Kelly O&#39;Briant</title>
-    <link>/tags/blogging/</link>
+    <link>https://kellobri.github.io/tags/blogging/</link>
     <description>Recent content in Blogging on Kelly O&#39;Briant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Kelly</copyright>
     <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/blogging/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://kellobri.github.io/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>B23 Blog Backlog</title>
-      <link>/post/b23-blog-record-backlog/</link>
+      <link>https://kellobri.github.io/post/b23-blog-record-backlog/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/b23-blog-record-backlog/</guid>
-      <description>
-
-&lt;h2 id=&#34;b23-blogs-from-the-past-2016&#34;&gt;B23 Blogs From the Past &amp;ndash; 2016&lt;/h2&gt;
-
-&lt;h3 id=&#34;a-sparklyr-test-drive-designed-for-the-analysis-of-large-datasets&#34;&gt;A Sparklyr Test Drive Designed for the Analysis of Large Datasets&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@b23llc/b23-presents-a-sparklyr-test-drive-designed-for-the-analysis-of-large-datasets-c3650e2d1717&#34; target=&#34;_blank&#34;&gt;Read it on Medium here.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;introducing-b23r-an-r-package-for-importing-and-exporting-entire-r-environments-backed-by-amazon-s-simple-storage-service-s3&#34;&gt;Introducing B23r &amp;ndash; An R package for Importing and Exporting Entire R Environments backed by Amazon’s Simple Storage Service (S3)&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@b23llc/introducing-b23r-an-r-package-for-importing-and-exporting-entire-r-environments-backed-by-amazon-ec75fcf2f516&#34; target=&#34;_blank&#34;&gt;Read it on Medium here.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://kellobri.github.io/post/b23-blog-record-backlog/</guid>
+      <description>B23 Blogs From the Past &amp;ndash; 2016 A Sparklyr Test Drive Designed for the Analysis of Large Datasets Read it on Medium here.
+Introducing B23r &amp;ndash; An R package for Importing and Exporting Entire R Environments backed by Amazon’s Simple Storage Service (S3) Read it on Medium here.</description>
     </item>
     
   </channel>

@@ -2,157 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kelly O&#39;Briant</title>
-    <link>/post/</link>
+    <link>https://kellobri.github.io/post/</link>
     <description>Recent content in Posts on Kelly O&#39;Briant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Kelly</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://kellobri.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Favorite Projects from 2017</title>
-      <link>/post/2017-12-25-favorite-projects-timeline/</link>
+      <link>https://kellobri.github.io/post/2017-12-25-favorite-projects-timeline/</link>
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017-12-25-favorite-projects-timeline/</guid>
-      <description>
-
-&lt;h2 id=&#34;favorite-projects-timeline-for-2017&#34;&gt;Favorite Projects Timeline for 2017&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_Projects.jpg&#34; alt=&#34;project-timeline&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;links-to-everything-listed&#34;&gt;Links to Everything Listed&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;January: &lt;a href=&#34;https://www.meetup.com/rladies-dc/&#34; target=&#34;_blank&#34;&gt;R-Ladies DC Meetup Group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;March: &lt;a href=&#34;https://platform.b23.io/&#34; target=&#34;_blank&#34;&gt;B23r for the B23 Data Platform&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;April: &lt;a href=&#34;http://www.rstats.nyc/2017&#34; target=&#34;_blank&#34;&gt;New York R Conference&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;May: &lt;a href=&#34;http://unconf17.ropensci.org/&#34; target=&#34;_blank&#34;&gt;rOpenSci Unconf&lt;/a&gt; and the &lt;a href=&#34;https://ropensci.org/blog/&#34; target=&#34;_blank&#34;&gt;.rprofile blog series&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;August: &lt;a href=&#34;https://www.safaribooksonline.com/library/view/introduction-to-sparklyr/9781491996508/&#34; target=&#34;_blank&#34;&gt;Introduction to Sparklyr for Data Science&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;September: &lt;a href=&#34;https://github.com/rladies/meetup-presentations_dc/blob/master/NetworkingCrosswordPuzzle-2017/R-Ladies%20Crossword%20Puzzle%20Challenge.pdf&#34; target=&#34;_blank&#34;&gt;R-Ladies DC Crossword Puzzle&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;October: &lt;a href=&#34;https://ww2.amstat.org/meetings/wsds/2017/&#34; target=&#34;_blank&#34;&gt;Women in Statistics and Data Science Conference&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;December: &lt;a href=&#34;https://www.etsy.com/listing/562883124/r-logo-cookie-cutter?show_sold_out_detail=1&#34; target=&#34;_blank&#34;&gt;3D Printed R-Logo Cookie Cutters&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://kellobri.github.io/post/2017-12-25-favorite-projects-timeline/</guid>
+      <description> Favorite Projects Timeline for 2017 Links to Everything Listed  January: R-Ladies DC Meetup Group March: B23r for the B23 Data Platform April: New York R Conference May: rOpenSci Unconf and the .rprofile blog series August: Introduction to Sparklyr for Data Science September: R-Ladies DC Crossword Puzzle October: Women in Statistics and Data Science Conference December: 3D Printed R-Logo Cookie Cutters  </description>
     </item>
     
     <item>
       <title>.rprofile Interview with Jenny Bryan</title>
-      <link>/post/2017-12-08-rprofile-jenny-bryan/</link>
+      <link>https://kellobri.github.io/post/2017-12-08-rprofile-jenny-bryan/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017-12-08-rprofile-jenny-bryan/</guid>
-      <description>
-
-&lt;h2 id=&#34;rprofile-jenny-bryan&#34;&gt;.rprofile: Jenny Bryan&lt;/h2&gt;
-
-&lt;p&gt;Over the next several months I&amp;rsquo;ll be teaming up with the &lt;a href=&#34;https://ropensci.org/&#34; target=&#34;_blank&#34;&gt;rOpenSci&lt;/a&gt; blog to release a series of cool &lt;code&gt;#rstats&lt;/code&gt; community interviews. The December interview with RStudio software engineer Jenny Bryan went live on the site today.&lt;/p&gt;
-
-&lt;p&gt;Read it here &lt;a href=&#34;https://ropensci.org/blog/2017/12/08/rprofile-jenny-bryan/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;.rprofile: Jenny Bryan&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;about-the-series&#34;&gt;About the Series&lt;/h2&gt;
-
-&lt;p&gt;I proposed this interview series as a side-project for rOpenSci unconf17 which took place in Los Angeles last May. The original idea was to put together a loosely defined set of interview questions for the purpose of “Demystifying the Creative/Development Process of the R Community”. All of the interviews we conducted ended up different, both from each other and from the pre-defined statement of purpose, but I’m incredibly happy with the final products and grateful for the opportunity I had to chat with these folks about their work and life.&lt;/p&gt;
-</description>
+      <guid>https://kellobri.github.io/post/2017-12-08-rprofile-jenny-bryan/</guid>
+      <description>.rprofile: Jenny Bryan Over the next several months I&amp;rsquo;ll be teaming up with the rOpenSci blog to release a series of cool #rstats community interviews. The December interview with RStudio software engineer Jenny Bryan went live on the site today.
+Read it here .rprofile: Jenny Bryan
+About the Series I proposed this interview series as a side-project for rOpenSci unconf17 which took place in Los Angeles last May. The original idea was to put together a loosely defined set of interview questions for the purpose of “Demystifying the Creative/Development Process of the R Community”.</description>
     </item>
     
     <item>
       <title>.rprofile Interview with Mara Averick</title>
-      <link>/post/2017-11-10-rprofile-mara-averick/</link>
+      <link>https://kellobri.github.io/post/2017-11-10-rprofile-mara-averick/</link>
       <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017-11-10-rprofile-mara-averick/</guid>
-      <description>
-
-&lt;h2 id=&#34;rprofile-mara-averick&#34;&gt;.rprofile: Mara Averick&lt;/h2&gt;
-
-&lt;p&gt;Over the next several months I&amp;rsquo;ll be teaming up with the &lt;a href=&#34;https://ropensci.org/&#34; target=&#34;_blank&#34;&gt;rOpenSci&lt;/a&gt; blog to release a series of cool &lt;code&gt;#rstats&lt;/code&gt; community interviews. The November interview with RStudio tidyverse developer advocate Mara Averick went live on the site today.&lt;/p&gt;
-
-&lt;p&gt;Read it here &lt;a href=&#34;https://ropensci.org/blog/2017/11/10/rprofile-mara-averick/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;.rprofile: Mara Averick&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;about-the-series&#34;&gt;About the Series&lt;/h2&gt;
-
-&lt;p&gt;I proposed this interview series as a side-project for rOpenSci unconf17 which took place in Los Angeles last May. The original idea was to put together a loosely defined set of interview questions for the purpose of “Demystifying the Creative/Development Process of the R Community”. All of the interviews we conducted ended up different, both from each other and from the pre-defined statement of purpose, but I’m incredibly happy with the final products and grateful for the opportunity I had to chat with these folks about their work and life.&lt;/p&gt;
-</description>
+      <guid>https://kellobri.github.io/post/2017-11-10-rprofile-mara-averick/</guid>
+      <description>.rprofile: Mara Averick Over the next several months I&amp;rsquo;ll be teaming up with the rOpenSci blog to release a series of cool #rstats community interviews. The November interview with RStudio tidyverse developer advocate Mara Averick went live on the site today.
+Read it here .rprofile: Mara Averick
+About the Series I proposed this interview series as a side-project for rOpenSci unconf17 which took place in Los Angeles last May. The original idea was to put together a loosely defined set of interview questions for the purpose of “Demystifying the Creative/Development Process of the R Community”.</description>
     </item>
     
     <item>
       <title>.rprofile Interview Series</title>
-      <link>/post/2017-10-13-rprofile-interview-series/</link>
+      <link>https://kellobri.github.io/post/2017-10-13-rprofile-interview-series/</link>
       <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017-10-13-rprofile-interview-series/</guid>
-      <description>
-
-&lt;h2 id=&#34;rprofile-david-smith&#34;&gt;.rprofile: David Smith&lt;/h2&gt;
-
-&lt;p&gt;Over the next several months I&amp;rsquo;ll be teaming up with the &lt;a href=&#34;https://ropensci.org/&#34; target=&#34;_blank&#34;&gt;rOpenSci&lt;/a&gt; blog to release a series of cool &lt;code&gt;#rstats&lt;/code&gt; community interviews. Check out the first one which went live today!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://ropensci.org/blog/blog/2017/10/13/rprofile-david-smith&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;.rprofile: David Smith&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;about-the-series&#34;&gt;About the Series&lt;/h2&gt;
-
-&lt;p&gt;I proposed this interview series as a side-project for rOpenSci unconf17 which took place in Los Angeles last May. The original idea was to put together a loosely defined set of interview questions for the purpose of “Demystifying the Creative/Development Process of the R Community”. All of the interviews we conducted ended up different, both from each other and from the pre-defined statement of purpose, but I’m incredibly happy with the final products and grateful for the opportunity I had to chat with these folks about their work and life.&lt;/p&gt;
-</description>
+      <guid>https://kellobri.github.io/post/2017-10-13-rprofile-interview-series/</guid>
+      <description>.rprofile: David Smith Over the next several months I&amp;rsquo;ll be teaming up with the rOpenSci blog to release a series of cool #rstats community interviews. Check out the first one which went live today!
+.rprofile: David Smith
+About the Series I proposed this interview series as a side-project for rOpenSci unconf17 which took place in Los Angeles last May. The original idea was to put together a loosely defined set of interview questions for the purpose of “Demystifying the Creative/Development Process of the R Community”.</description>
     </item>
     
     <item>
       <title>B23 Blog: Chromebook Data Science</title>
-      <link>/post/b23-blog-chromebook-data-science/</link>
+      <link>https://kellobri.github.io/post/b23-blog-chromebook-data-science/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/b23-blog-chromebook-data-science/</guid>
-      <description>
-
-&lt;h2 id=&#34;experimenting-with-chromebook-data-science-in-the-cloud&#34;&gt;Experimenting with Chromebook Data Science in the Cloud&lt;/h2&gt;
-
-&lt;p&gt;I have a new blog up on the B23 Medium account &amp;ndash; Check it out: &lt;a href=&#34;https://medium.com/@b23llc/experimenting-with-chromebook-data-science-in-the-cloud-2bd84a68b934&#34; target=&#34;_blank&#34;&gt;Experimenting with Chromebook Data Science in the Cloud&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@b23llc&#34; target=&#34;_blank&#34;&gt;Medium&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/b23llc&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://platform.b23.io/&#34; target=&#34;_blank&#34;&gt;B23 Data Platform&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://kellobri.github.io/post/b23-blog-chromebook-data-science/</guid>
+      <description> Experimenting with Chromebook Data Science in the Cloud I have a new blog up on the B23 Medium account &amp;ndash; Check it out: Experimenting with Chromebook Data Science in the Cloud
+ Medium Twitter B23 Data Platform  </description>
     </item>
     
     <item>
       <title>B23 Blog Backlog</title>
-      <link>/post/b23-blog-record-backlog/</link>
+      <link>https://kellobri.github.io/post/b23-blog-record-backlog/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/b23-blog-record-backlog/</guid>
-      <description>
-
-&lt;h2 id=&#34;b23-blogs-from-the-past-2016&#34;&gt;B23 Blogs From the Past &amp;ndash; 2016&lt;/h2&gt;
-
-&lt;h3 id=&#34;a-sparklyr-test-drive-designed-for-the-analysis-of-large-datasets&#34;&gt;A Sparklyr Test Drive Designed for the Analysis of Large Datasets&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@b23llc/b23-presents-a-sparklyr-test-drive-designed-for-the-analysis-of-large-datasets-c3650e2d1717&#34; target=&#34;_blank&#34;&gt;Read it on Medium here.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;introducing-b23r-an-r-package-for-importing-and-exporting-entire-r-environments-backed-by-amazon-s-simple-storage-service-s3&#34;&gt;Introducing B23r &amp;ndash; An R package for Importing and Exporting Entire R Environments backed by Amazon’s Simple Storage Service (S3)&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@b23llc/introducing-b23r-an-r-package-for-importing-and-exporting-entire-r-environments-backed-by-amazon-ec75fcf2f516&#34; target=&#34;_blank&#34;&gt;Read it on Medium here.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://kellobri.github.io/post/b23-blog-record-backlog/</guid>
+      <description>B23 Blogs From the Past &amp;ndash; 2016 A Sparklyr Test Drive Designed for the Analysis of Large Datasets Read it on Medium here.
+Introducing B23r &amp;ndash; An R package for Importing and Exporting Entire R Environments backed by Amazon’s Simple Storage Service (S3) Read it on Medium here.</description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>/post/2017-03-20-hello-world-rmd/</link>
+      <link>https://kellobri.github.io/post/2017-03-20-hello-world-rmd/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017-03-20-hello-world-rmd/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m currently in the process of migrating or linking to my blogs from other locations - stay tuned!&lt;/p&gt;
-</description>
+      <guid>https://kellobri.github.io/post/2017-03-20-hello-world-rmd/</guid>
+      <description>I&amp;rsquo;m currently in the process of migrating or linking to my blogs from other locations - stay tuned!</description>
     </item>
     
   </channel>

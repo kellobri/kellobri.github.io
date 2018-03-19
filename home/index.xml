@@ -2,13 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Kelly O&#39;Briant</title>
-    <link>/home/</link>
+    <link>https://kellobri.github.io/home/</link>
     <description>Recent content in Homes on Kelly O&#39;Briant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Kelly</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://kellobri.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://kellobri.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kellobri.github.io/home/about/</guid>
+      <description>Hi, I&amp;rsquo;m Kelly and this is the blog-extension of my GitHub account. Here I keep a record of my blogs, speaking engagements and external projects. I&amp;rsquo;m an organizer of the Washington DC chapter of R-Ladies Global. It&amp;rsquo;s an R users group for lady-folk and friends. Check out our Meetup page for the latest news and events. We&amp;rsquo;re also on Twitter.</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://kellobri.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kellobri.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://kellobri.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kellobri.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://kellobri.github.io/home/tutorials/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kellobri.github.io/home/tutorials/</guid>
+      <description>O&amp;rsquo;Reilly Media  Introduction to Sparklyr for Data Science  Web Video Tutorial, Published: September 2017   R-Ladies Washington DC Event Tutorials:  Rise &amp;amp; Shiny [1] Semantic UI in Shiny Apps and on Shiny Servers Open Data Day Mini-Hack Easy web scraping in R with the rvest package Personal Website Workshop R Blogdown + Github + Netlify Rise &amp;amp; Shiny [2] Introduction to Shiny Application Development R-Ladies Fall Networking Competition Crossword Puzzle!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://kellobri.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kellobri.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
