@@ -11,13 +11,30 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>DataOps: Data Science Empowerment through DevOps, Cloud Computing and Building your Own Applications</title>
+      <title>DevOps Toolkit for R: Tinkering in the Cloud with Google App Engine</title>
+      <link>https://kellobri.github.io/talk/user-session2018/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kellobri.github.io/talk/user-session2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RStudio 2018 - Who we are and what we do</title>
+      <link>https://kellobri.github.io/talk/user-keynote2018/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kellobri.github.io/talk/user-keynote2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DataOps: Data Science Empowerment through DevOps, Cloud Computing and Building your own Applications</title>
       <link>https://kellobri.github.io/talk/wia2018/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://kellobri.github.io/talk/wia2018/</guid>
-      <description>&lt;p&gt;Saturday October 21, 2017 at 12:45 PM&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
